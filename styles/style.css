@@ -123,3 +123,21 @@ display: flex;
     display: flex;
     padding-left: 120px;
 }
+/* footer related styles */
+.footer{
+    background-color: #111010;
+    text-align: center;
+    padding: 100px 150px;
+}
+.footer-title{
+    color: white;
+}
+.footer-description{
+    font-size: 12px;
+    color: white;
+}
+.footer-copyright{
+    color: white;
+    font-size: 10px;
+    opacity: 0.4;
+}
