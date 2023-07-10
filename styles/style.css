@@ -141,3 +141,14 @@ display: flex;
     font-size: 10px;
     opacity: 0.4;
 }
+/* bonua section styles */
+.bonus{
+    padding: 100px 150px;
+}
+.featured-flower{
+    text-align: center;
+}
+.ff-image-1{
+    background-color: #A72162;
+    opacity: 0.3;
+}
