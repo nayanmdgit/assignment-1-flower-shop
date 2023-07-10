@@ -10,7 +10,7 @@ body{
 /* header related styles */
 .header{
     width: auto;
-    background-color: #FFFFFF;
+    background-color: #FFF8F3;
     padding-left: 150px;
     padding-top: 50px;
     padding-right: 100px;
@@ -18,6 +18,7 @@ body{
 }
 .banner{
     padding-top: 70px;
+    padding-right: 100px;
 }
 
 .banner h1{
@@ -26,17 +27,44 @@ body{
 
 .banner p{
     font-size: 12px;
+    padding-right: 40px;
 }
 
 .btn-primary{
     background: #E55473;
     border: 0;
     border-radius: 5px;
-    font-size: 10px;
+    font-size: 12px;
     font-weight: 700px;
     color: white;
-    padding: 12px 20px;
+    padding: 12px 25px;
+    width: 120px;
 }
 .banner-image{
     width: 500px;
+}
+
+/* hot deal parts styles */
+.hot-deal{
+    display: flex;
+    align-items: center;
+    padding: 100px 250px;
+    background-color: #fff8f3;
+}
+.hot-deal-text{
+    align-items: center;
+    justify-content: center;
+    padding-right: 150px;
+    text-align: center;
+}
+.hot-deal-text p{
+    font-size: 12px;
+    align-items: center;
+    text-align: center;
+}
+span{
+    color: #E55473;
+}
+.hot-deal-image{
+ width: 250px;   
 }
