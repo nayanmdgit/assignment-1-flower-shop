@@ -68,3 +68,36 @@ span{
 .hot-deal-image{
  width: 250px;   
 }
+
+/* instagram parts styles */
+.instagram{
+    padding: 70px 150px;
+}
+.instagram-text{
+    text-align: center;
+}
+.section-description{
+    font-size: 12px;
+    padding: 0 300px;
+}
+
+.instagram-images{
+display: flex;
+
+
+}
+.instagram-images-1{
+    padding-right: 10px;
+    width: 250px;
+    height: 300px;
+}
+.instagram-images-2{
+    padding-right: 10px;
+    width: 250px;
+    height: 300px;
+}
+.instagram-images-3{
+    padding-right: 10px;
+    width: 250px;
+    height: 300px;
+}
