@@ -148,7 +148,58 @@ display: flex;
 .featured-flower{
     text-align: center;
 }
+.featured-flower-images{
+    display: flex;
+    align-items: center;
+    
+}
+
 .ff-image-1{
-    background-color: #A72162;
-    opacity: 0.3;
+    background-color: #daced4;
+    margin: 10px;
+    border-radius: 50% 50% 0% 0%;
+}
+
+.ff-image-2{
+    background-color: #cfe0e0;
+    margin: 10px;
+    border-radius: 50% 50% 0% 0%;
+}
+
+.ff-image-3{
+    background-color: #dae2d3;
+    margin: 10px;
+    border-radius: 50% 50% 0% 0%;
+}
+
+
+.ff-image-l{
+    
+    width: 230px;
+    height: 300px;
+    padding: 70px 50px 0px 50px;
+    
+}
+.ff-image-part{
+    text-align: center;
+    
+}
+.ff-image-part p{
+    padding: 10px;
+}
+
+.ff-image-m{
+    
+    width: 230px;
+    height: 300px;
+    padding: 40px 50px 30px 50px ;
+    
+    
+}
+.ff-image-r{
+    
+    width: 230px;
+    height: 300px;
+    padding: 70px 50px 0px 50px ;
+    
 }
