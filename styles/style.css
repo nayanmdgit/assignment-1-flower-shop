@@ -203,3 +203,33 @@ display: flex;
     padding: 70px 50px 0px 50px ;
     
 }
+ /* contact related styles */
+
+ #contact{
+    background-color: #fff8f3;
+    margin: 100px 150px;
+    padding: 50px 100px;
+    align-items: center;
+    text-align: center;
+ }
+
+ #name{
+    padding: 12px 250px 12px 10px;
+    border: 0;
+    border-radius: 5px;
+ }
+ #phone{
+    padding: 12px 250px 12px 10px;
+    border: 0;
+    border-radius: 5px;
+ }
+ .gender{
+    font-size: 14px;
+    padding-right: 190px;
+ }
+ .text-area{
+    font-size: 14px;
+    border: 0;
+    border-radius: 5px;
+
+ }
